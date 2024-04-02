@@ -8,8 +8,16 @@
   
   <br>
   <br>
+
+  ## 🌟 Upcoming Update Highlights 02/04/24 🌟
+
+- **14.1 release: Fix for evil portal SD CARD**
+- **Updated SplashScreen**
+- **Renamed Some stuff**
+- **Redone rickroll feature for a more custom one same principal just different texts etc**
+- **More to come**
   
-  ## 🌟 Update Highlights 03/24/24 🌟
+  ## 🌟 Update Highlights 24/03/24 🌟
 
 - **Unrelated to the 0.13.9 release: SwiftPair Spam now 100% functional** (Thanks to <a href=https://github.com/Fr4nkFletcher>Fr4nkFletcher</a>)
 
