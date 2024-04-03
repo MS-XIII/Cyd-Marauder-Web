@@ -9,13 +9,16 @@
   <br>
   <br>
 
-  ## 🌟 Upcoming Update Highlights 02/04/24 🌟
+  ## 🌟 Upcoming Update Highlights 10/04/24 🌟
 
 - **14.1 release: Fix for evil portal SD CARD**
 - **Updated SplashScreen**
 - **Renamed Some stuff**
 - **Redone rickroll feature for a more custom one same principal just different texts etc**
 - **More to come**
+
+  ## 🌟 Update Highlights 03/04/24 🌟
+- **Issue with this whole project working on hosting site has been fixed. because why hOST THIS on github**
   
   ## 🌟 Update Highlights 24/03/24 🌟
 
